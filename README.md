@@ -2,6 +2,8 @@
 
 > Nuxt.js + Vuetify.js + Material Dashboard
 
+![Readme Image](./screenshot.png)
+
 ## Main technologies used
 
 - [Vuetify.js](https://vuetifyjs.com/)
