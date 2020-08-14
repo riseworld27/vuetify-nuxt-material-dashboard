@@ -2,6 +2,11 @@
 
 > Nuxt.js + Vuetify.js + Material Dashboard
 
+## Main technologies used
+
+- [Vuetify.js](https://vuetifyjs.com/)
+- [Nuxt.js](https://github.com/nuxt/nuxt.js)
+- [Material-dashboard](https://demos.creative-tim.com/material-dashboard/docs/2.1/getting-started/introduction.html)
 
 ## Build Setup
 
@@ -22,8 +27,3 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out:
-- [Material-dashboard](https://demos.creative-tim.com/material-dashboard/docs/2.1/getting-started/introduction.html) documentation
-- [Vuetify.js](https://vuetifyjs.com/) documentation
-- [Nuxt.js](https://github.com/nuxt/nuxt.js)
